@@ -1,0 +1,36 @@
+.hover-button {
+  position: relative;
+  padding: 10px 20px;
+  font-size: 18px;
+  font-weight: bold;
+  color: #333;
+  background-color: #f4a261;
+  border: none;
+  border-radius: 20px;
+  cursor: pointer;
+  overflow: hidden;
+  transition: all 0.3s ease;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+/* Default state (no hover) */
+.hover-button {
+  color: transparent; /* Hide text initially */
+}
+
+/* Hover state */
+.hover-button:hover {
+  color: #333; /* Show text on hover */
+}
+
+/* Position the SVG */
+.drip-effect {
+  position: absolute;
+  bottom: -100px; /* Start below the button */
+  left: 50%;
+  transform: translateX(-50%);
+  transition: all 0.5s ease;
+  pointer-events: none; /* Avoid interfering with button clicks */
+}
