@@ -23,11 +23,10 @@ This clone was built to sharpen front-end development skills and demonstrate cap
 
 ## 🛠️ Tech Stack
 
-- **React.js**
+- **React.js**(Create React App)
 - **TailwindCSS**
 - **GSAP (GreenSock Animation Platform)**
 - **JSX**
-- **Vite** (or CRA—replace if needed)
 - **Responsive Design**
 
 ---
