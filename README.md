@@ -1,70 +1,72 @@
-# Getting Started with Create React App
+# 🌀 Spylt Website Clone  
+A fully responsive and animated clone of the official **Spylt** website, built using **React, GSAP, TailwindCSS, and JSX**.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+🚀 **Live Demo:** https://spylt-app.vercel.app/  
+📦 **GitHub Repo:** https://github.com/Zartasha-kanwal/spylt-app  
 
-## Available Scripts
+---
 
-In the project directory, you can run:
+## 📸 Project Demo  
+Here’s a quick look at the cloned Spylt homepage:
 
-### `npm start`
+![Spylt Demo](public/demo.png)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+---
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## 📌 Overview  
+This project is a pixel-close recreation of the **Spylt** homepage.  
+It includes smooth GSAP animations, responsive layouts, and optimized visual assets — closely matching the original website.
 
-### `npm test`
+This clone was built to sharpen front-end development skills and demonstrate capabilities in animation, responsive UI, and component-based architecture.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+---
 
-### `npm run build`
+## 🛠️ Tech Stack
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- **React.js**
+- **TailwindCSS**
+- **GSAP (GreenSock Animation Platform)**
+- **JSX**
+- **Vite** (or CRA—replace if needed)
+- **Responsive Design**
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+---
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## ✨ Features
 
-### `npm run eject`
+### 🎨 Pixel-Close UI  
+Recreated the modern and vibrant UI of Spylt with precision.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+### 🌀 GSAP Animations  
+Smooth entrance animations, scroll-triggered effects, staggered text, and parallax motion.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### 📱 Fully Responsive  
+Looks great on:
+- Mobile  
+- Tablet  
+- Desktop  
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+### ⚡ High Performance  
+Optimized media, lightweight components, and smooth rendering.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+---
 
-## Learn More
+---
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## 🚀 Run Locally
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+```bash
+git clone https://github.com/Zartasha-kanwal/spylt-app.git
+cd spylt-app
+npm install
+npm run dev
 
-### Code Splitting
+🧑‍💻 Author
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+Zartasha Kanwal
+Frontend Developer
 
-### Analyzing the Bundle Size
+📄 Disclaimer
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+This project is for educational and portfolio purposes only.
+All branding, design rights, and assets belong to Spylt.
