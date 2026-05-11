@@ -1,4 +1,4 @@
-# 🌀 Spylt Website Clone  
+# 🌀 Spylt Website  
 A fully responsive and animated clone of the official **Spylt** website, built using **React, GSAP, TailwindCSS, and JSX**.
 
 🚀 **Live Demo:** https://spylt-app.vercel.app/  
